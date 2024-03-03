@@ -4,9 +4,9 @@
 
 В настоящее время я активно развиваюсь в направлении Data Science и нахожусь в процессе рассмотрения предложений.
 
-Были освоенны библиотеки Python: Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, NLTK, TensorFlow, Keras.
+Библиотеки Python: Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, NLTK, TensorFlow, Keras.
 
-Освоена СУБД PostgreSQL.
+СУБД: PostgreSQL.
 
 [Яндекс Практикум: проекты по курсу "Специалист по Data Science"](https://github.com/AlexPuaro/Data_science)
 
