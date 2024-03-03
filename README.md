@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Yandex] (https://github.com/AlexPuaro/Data_science)
+[Яндекс Практикум: проекты по курсу "Специалист по Data Science"](https://github.com/AlexPuaro/Data_science)
 
 
 
