@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[Yandex] (https://github.com/AlexPuaro/Data_science)
+
+
+
 <!--
 **AlexPuaro/alexpuaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
